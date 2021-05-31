@@ -15,7 +15,7 @@ Knowledge-Based Systems
 ## Data Preparation
 
 Data download could refer to https://github.com/jindongwang/transferlearning/tree/master/data.
-On the other hand, the path files should be modified according your setting.
+On the other hand, the path files under `./data_list/` should be modified according your setting.
 
 ## Training
 
